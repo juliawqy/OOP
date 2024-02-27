@@ -1,0 +1,1 @@
+javac -d out -cp source;javax.mail/mailapi-1.5.5.jar;com.sun.mail.smtp/smtp-1.5.5.jar;javax.activation/activation.jar source/demo/Tester.java

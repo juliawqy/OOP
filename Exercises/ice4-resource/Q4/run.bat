@@ -1,0 +1,1 @@
+java -cp my_compiled;ben_code smu.bidding.App
