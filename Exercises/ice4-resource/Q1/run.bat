@@ -1,0 +1,1 @@
+java -cp classes;src farming/app/AnimalFarmTest
