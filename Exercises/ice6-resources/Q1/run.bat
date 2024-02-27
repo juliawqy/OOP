@@ -1,0 +1,1 @@
+java -cp classes;lib/velocity-1.7-dep.jar;lib/velocity-1.7.jar app.TemplatingEngine
